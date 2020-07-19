@@ -1,23 +1,29 @@
-### Flutter Developer
+<h2> Hello World, I'm Vraj Gohil! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="350">
+<p><em>Student at PDPU<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Founder at Devsquirreltech<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
+[![Twitter: vraj_gohil](https://img.shields.io/twitter/follow/vraj_gohil?style=social)](https://twitter.com/vraj_gohil)
+[![Linkedin: vrajgohil](https://img.shields.io/badge/-vrajgohil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vrajgohil)](https://www.linkedin.com/in/vrajgohil/)
+[![GitHub VrajGohil](https://img.shields.io/github/followers/VrajGohil?label=follow&style=social)](https://github.com/VrajGohil)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```dart
+Widget build(BuildContext context){
+    return Vraj(
+        gender: 'male',
+        code: ['Dart','HTML','CSS','Javascript','Python','Java'],
+        tools: ['Flutter','Firebase','GCP','Android','Figma'],
+        challange: 'Currently developing real-time multiplayer game in flutter',
+    );
+}
 ```
-    .....                ..                     s         s                            
- .H8888888x.  '`+  x .d88"                     :8        :8                            
-:888888888888x.  !  5888R      x.    .        .88       .88                  .u    .   
-8~    `"*88888888"  '888R    .@88k  z88u     :888ooo   :888ooo      .u     .d88B :@8c  
-!      .  `f""""     888R   ~"8888 ^8888   -*8888888 -*8888888   ud8888.  ="8888f8888r 
- ~:...-` :8L <)88:   888R     8888  888R     8888      8888    :888'8888.   4888>'88"  
-    .   :888:>X88!   888R     8888  888R     8888      8888    d888 '88%"   4888> '    
- :~"88x 48888X ^`    888R     8888  888R     8888      8888    8888.+"      4888>      
-<  :888k'88888X      888R     8888 ,888B .  .8888Lu=  .8888Lu= 8888L       .d888L .+   
-  d8888f '88888X    .888B .  "8888Y 8888"   ^%888*    ^%888*   '8888c. .+  ^"8888*"    
- :8888!    ?8888>   ^*888%    `Y"   'YP       'Y"       'Y"     "88888%       "Y"      
- X888!      8888~     "%                                          "YP'                 
- '888       X88f                                                                       
-  '%8:     .8*"                                                                        
-     ^----~"`    
-```
 
+<center><em><b>I love developing with flutter!</b></em></center>
+<img src="https://github.com/rajbheda5/rajbheda5/raw/master/flutter.gif" width="150"> 
 
-![Vraj's github stats](https://github-readme-stats.vercel.app/api?username=VrajGohil&show_icons=true)
+---
 
+⭐️ From [@VrajGohil](https://github.com/VrajGohil)
